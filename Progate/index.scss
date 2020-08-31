@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+}
+
+header{
+  background-color:rgba( #263137,1);
+  height: 64px;
+  img{
+    width: 124px;
+    margin-top: 20px;
+  }
+
+  div{
+    float:right;
+    a{
+      display: block;
+      color: white;
+      padding:0 20px 0 20px;
+      text-decoration: none;
+       line-height: 64px;
+       float: left;
+      &:hover {
+        background-color :#454E54;
+      }
+    }
+  }
+}
+
+footer{
+  text-align: center;
+  img{
+    width:125px;
+  }
+  p{
+    color: #B3AEB5;
+    font-size: 10px;
+  }
+}

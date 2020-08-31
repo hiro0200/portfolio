@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #263137;
+  height: 64px;
+}
+
+header img {
+  width: 124px;
+  margin-top: 20px;
+}
+
+header div {
+  float: right;
+}
+
+header div a {
+  display: block;
+  color: white;
+  padding: 0 20px 0 20px;
+  text-decoration: none;
+  line-height: 64px;
+  float: left;
+}
+
+header div a:hover {
+  background-color: #454E54;
+}
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #B3AEB5;
+  font-size: 10px;
+}
+/*# sourceMappingURL=index.css.map */
